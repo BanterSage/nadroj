@@ -1,0 +1,26 @@
+html {
+    font-family: "Google Sans";
+}
+
+nav {
+    a {
+        color: #ffffff;
+        text-decoration: none;
+    
+        &:hover {
+            text-decoration: underline;
+            color: crimson;
+        }
+    }
+    
+    padding: 1rem;
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+article {
+    margin: 6px;
+
+}
