@@ -9,7 +9,7 @@ nav {
     
         &:hover {
             text-decoration: underline;
-            color: crimson;
+            color: rgb(20, 33, 220);
         }
     }
     
