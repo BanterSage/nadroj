@@ -18,3 +18,24 @@ p {
     margin: 0 auto;
   }
   
+.subtext {
+    font-size: 28px;
+    margin-top: -24px;
+    font-weight: 600;
+    color: rgb(54, 54, 54);
+}
+
+.sidebarad3 {
+    position: absolute;
+    left: 100px;
+    top: 30vh;
+    border: 0.5px solid black;
+
+}
+
+.sidebarad4 {
+    position: absolute;
+    right: 100px;
+    top: 35vh;
+    border: 0.5px solid black;
+}

@@ -1,0 +1,14 @@
+.sidebarad {
+    position: absolute;
+    left: 100px;
+    top: 70vh;
+    border: 0.5px solid black;
+
+}
+
+.sidebarad2 {
+    position: absolute;
+    right: 100px;
+    top: 77vh;
+    border: 0.5px solid black;
+}
